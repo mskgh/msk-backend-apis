@@ -4,8 +4,11 @@
     "dev": {
       "HostAddress": "https://localhost:7049"
     },
-    "remote": {
+    "stage": {
       "HostAddress": "https://localhost:7049"
-    }
+    },
+    "uat": {},
+    "perf": {},
+    "main": {}
   }
 }
