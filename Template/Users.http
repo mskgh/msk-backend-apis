@@ -20,11 +20,11 @@ Content-Type: application/json
 
 ###
 
-GET {{HostAddress}}/api/v1/user/6e89f9ae-0b9b-49e7-98e6-61c79645791c
+GET {{HostAddress}}/api/v1/user/aa80dde7-c42b-491c-abe4-065d30710502
 
 ###
 
-PUT {{HostAddress}}/api/v1/user/6e89f9ae-0b9b-49e7-98e6-61c79645791c
+PUT {{HostAddress}}/api/v1/user/aa80dde7-c42b-491c-abe4-065d30710502
 Content-Type: application/json
 
 {
@@ -38,5 +38,5 @@ Content-Type: application/json
 
 ###
 
-DELETE {{HostAddress}}/api/v1/user/e34eb758-6f83-4838-aa7e-e0e6c0bd547a
+DELETE {{HostAddress}}/api/v1/user/aa80dde7-c42b-491c-abe4-065d30710502
 
